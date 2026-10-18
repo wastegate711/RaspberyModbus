@@ -7,8 +7,8 @@
     <ProjectGuid>{C63611FE-E1C7-465A-9104-404BEDC74FB6}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>RaspberyModbus</RootNamespace>
-    <AssemblyName>RaspberyModbus</AssemblyName>
+    <RootNamespace>RaspberryModbus</RootNamespace>
+    <AssemblyName>RaspberryModbus</AssemblyName>
     <DefaultLanguage>ru-RU</DefaultLanguage>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetPlatformVersion Condition=" '$(TargetPlatformVersion)' == '' ">10.0.19041.0</TargetPlatformVersion>
@@ -119,11 +119,13 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="DriveStatus.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="ModbusRtu.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SpkDrive.cs" />
   </ItemGroup>
   <ItemGroup>
     <AppxManifest Include="Package.appxmanifest">

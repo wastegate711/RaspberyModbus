@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "40NbX5wPHLpDEBos0veAVwVXTCLUhwr667yYgiI+SXDxhT9vB48EQ/r+2Y0ors6yKvvehq0VgvKgTelWRc00bQ==",
+  "dgSpecHash": "3P/JvacCLmG49qBfUm7vywEgy/57sJUZeEZjl+lkfB5tAEhTE2iinxXORonB6szmccN8lqyiVmIYEyYWYwm4UA==",
   "success": true,
-  "projectFilePath": "C:\\Repository\\RaspberyModbus\\RaspberyModbus\\RaspberyModbus.csproj",
+  "projectFilePath": "C:\\Repository\\RaspberyModbus\\RaspberyModbus\\RaspberryModbus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wastegate\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\1.7.6\\microsoft.net.native.compiler.1.7.6.nupkg.sha512",

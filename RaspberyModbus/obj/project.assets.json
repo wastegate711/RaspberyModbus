@@ -28047,9 +28047,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repository\\RaspberyModbus\\RaspberyModbus\\RaspberyModbus.csproj",
-      "projectName": "RaspberyModbus",
-      "projectPath": "C:\\Repository\\RaspberyModbus\\RaspberyModbus\\RaspberyModbus.csproj",
+      "projectUniqueName": "C:\\Repository\\RaspberyModbus\\RaspberyModbus\\RaspberryModbus.csproj",
+      "projectName": "RaspberryModbus",
+      "projectPath": "C:\\Repository\\RaspberyModbus\\RaspberyModbus\\RaspberryModbus.csproj",
       "packagesPath": "C:\\Users\\wastegate\\.nuget\\packages\\",
       "outputPath": "C:\\Repository\\RaspberyModbus\\RaspberyModbus\\obj\\",
       "projectStyle": "PackageReference",
