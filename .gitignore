@@ -1,0 +1,60 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+*.opendb
+*.db-shm
+*.db-wal
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+**/bin/
+**/obj/
+
+# Visual Studio generated files
+Generated Files/
+*.g.cs.tmp
+*.g.i.cs.tmp
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# UWP / MSIX generated packages
+AppPackages/
+BundleArtifacts/
+*.appx
+*.appxbundle
+*.appxupload
+*.msix
+*.msixbundle
+*.msixupload
+**/Generated Files/
+**/AppPackages
+
+# Local signing certificates — do not commit private keys
+*.pfx
+*.p12
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini

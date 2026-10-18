@@ -8,22 +8,22 @@
 //------------------------------------------------------------------------------
 
 
-namespace RaspberyModbus
+namespace RaspberryModbus
 {
     public partial class App : global::Windows.UI.Xaml.Markup.IXamlMetadataProvider
     {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks"," 10.0.19041.5609")]
-        private global::RaspberyModbus.RaspberyModbus_XamlTypeInfo.XamlMetaDataProvider __appProvider;
+        private global::RaspberryModbus.RaspberyModbus_XamlTypeInfo.XamlMetaDataProvider __appProvider;
 
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks"," 10.0.19041.5609")]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        private global::RaspberyModbus.RaspberyModbus_XamlTypeInfo.XamlMetaDataProvider _AppProvider
+        private global::RaspberryModbus.RaspberyModbus_XamlTypeInfo.XamlMetaDataProvider _AppProvider
         {
             get
             {
                 if (__appProvider == null)
                 {
-                    __appProvider = new global::RaspberyModbus.RaspberyModbus_XamlTypeInfo.XamlMetaDataProvider();
+                    __appProvider = new global::RaspberryModbus.RaspberyModbus_XamlTypeInfo.XamlMetaDataProvider();
                 }
                 return __appProvider;
             }
@@ -61,7 +61,7 @@ namespace RaspberyModbus
     }
 }
 
-namespace RaspberyModbus.RaspberyModbus_XamlTypeInfo
+namespace RaspberryModbus.RaspberyModbus_XamlTypeInfo
 {
     /// <summary>
     /// Main class for providing metadata for the app or library
@@ -70,15 +70,15 @@ namespace RaspberyModbus.RaspberyModbus_XamlTypeInfo
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     public sealed class XamlMetaDataProvider : global::Windows.UI.Xaml.Markup.IXamlMetadataProvider
     {
-        private global::RaspberyModbus.RaspberyModbus_XamlTypeInfo.XamlTypeInfoProvider _provider = null;
+        private global::RaspberryModbus.RaspberyModbus_XamlTypeInfo.XamlTypeInfoProvider _provider = null;
 
-        private global::RaspberyModbus.RaspberyModbus_XamlTypeInfo.XamlTypeInfoProvider Provider
+        private global::RaspberryModbus.RaspberyModbus_XamlTypeInfo.XamlTypeInfoProvider Provider
         {
             get
             {
                 if (_provider == null)
                 {
-                    _provider = new global::RaspberyModbus.RaspberyModbus_XamlTypeInfo.XamlTypeInfoProvider();
+                    _provider = new global::RaspberryModbus.RaspberyModbus_XamlTypeInfo.XamlTypeInfoProvider();
                 }
                 return _provider;
             }

@@ -1,7 +1,7 @@
 ﻿<Application
-    x:Class="RaspberyModbus.App"
+    x:Class="RaspberryModbus.App"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:RaspberyModbus">
+    xmlns:local="using:RaspberryModbus">
 
 </Application>
